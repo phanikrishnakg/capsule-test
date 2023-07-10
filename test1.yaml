@@ -1,8 +1,8 @@
-apiVersion:capsule.clastix.io/v1beta2
-kind:Tenant
+apiVersion: capsule.clastix.io/v1beta2
+kind: Tenant
 metadata:
-  name:oil
+  name: oil
 spec:
   owners:
-  - name:alice
-    kind:User
+  - name: alice
+    kind: User
