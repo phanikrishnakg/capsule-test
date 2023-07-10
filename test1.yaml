@@ -5,4 +5,4 @@ metadata:
 spec:
   owners:
   - name: alice
-    kind: User
+    kind: user
