@@ -4,5 +4,5 @@ metadata:
   name: oil3
 spec:
   owners:
-    - name: phanikrishnakg
+    - name: kgphani
       kind: user
